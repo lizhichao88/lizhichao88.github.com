@@ -3,7 +3,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>我的个人主页</title>
+  我的个人主页>
 </head>
 <body bgcolor="#F5F5F5" text="#FF9100" >
 
