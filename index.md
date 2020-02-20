@@ -3,7 +3,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  我的个人主页>
+  我的个人主页
 </head>
 <body bgcolor="#F5F5F5" text="#FF9100" >
 
@@ -14,20 +14,20 @@
 <caption ><font size="15px" face="隶书" color="#EF904C">我的基本信息</font></caption>
 
 <tr>
-  <td>姓名：鹿晗</td>
-  <td>特长：演戏、唱歌、街舞</td>
+  <td>姓名：李志超</td>
+  <td>特长：唱，跳，rap，篮球</td>
   <td rowspan="3"><img src="bg.jpg" ></td>
   
 </tr>
 <tr>
-  <td>年龄：27</td>
-  <td>籍贯：北京</td>
+  <td>年龄：22</td>
+  <td>籍贯：浙江省金华市</td>
 
 </tr>
 
 <tr>
-  <td>星座：白羊座</td>
-  <td>毕业学校：首尔艺术大学</td>
+  <td>星座：天平</td>
+  <td>在读学校：浙江万里学院</td>
   
 </tr>
 </table>
