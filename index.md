@@ -30,16 +30,8 @@
   <td>在读学校：浙江万里学院</td>
   
 </tr>
-</table>
 
-<a id="2"></a>
-<h3 ><font size="15px" face="隶书" color="#EF904C">我的成名作： </font></h3>
-<ul >
-<li><a href="https://baike.baidu.com/item/%E9%87%8D%E8%BF%9420%E5%B2%81/13028826" target="_blank">重返20岁</a></li>
-<li><a href="https://baike.baidu.com/item/%E6%88%91%E6%98%AF%E8%AF%81%E4%BA%BA/16785929" target="_blank">我是证人</a></li>
-<li><a href="https://baike.baidu.com/item/%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0/6729311" target="_blank">盗墓笔记</a></li>
-<li><a href="https://baike.baidu.com/item/%E6%8B%A9%E5%A4%A9%E8%AE%B0/19465979" target="_blank">择天记</a></li>
-</ul>
+
 
 
 <h3><font size="15px" face="隶书" color="#EF904C">我的成名作： </font></h3>
