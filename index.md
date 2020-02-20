@@ -5,7 +5,10 @@
   <meta charset="UTF-8">
   <title>我的个人主页</title>
 </head>
+<body bgcolor="#F5F5F5" text="#FF9100" >
 
+
+<hr width="800px" size="4px" align="left" color="#EF904C">
 
 <table border="1px" bgcolor="#eee" cellpadding="10px" cellspacing="10px" bordercolor="#EF904C" >
 <caption ><font size="15px" face="隶书" color="#EF904C">我的基本信息</font></caption>
