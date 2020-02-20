@@ -35,3 +35,80 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>About me</title>
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+  <div class="container">
+    <header class="navbar">
+      <nav class="nav nav-masthead justify-content-left">
+        <a class="nav-link active" href="./index.html">Zhigang Chen</a>
+        <a class="nav-link"></a>
+        <a class="nav-link"></a>
+        <a class="nav-link" href="./Publications.html">Publications</a>
+        <a class="nav-link" href="./FHE Resources.html">FHE Resources</a>
+        <a class="nav-link" href="./FHE and Machine Learning References.html">FHE and Machine Learning References</a>
+        <a class="nav-link" href="./A List of FHE Papers.html">A List of FHE Papers</a>  
+      </nav>
+    </header>
+
+    <main role="main" class="cover" id="about">
+      <div class="row">
+          <div class="col-lg-4">
+              <br>
+              <br>
+              <br>
+              <img src="./img/profile.jpg" class="img-circle">
+              <p></p>
+              <p>Zhigang Chen</p>
+              <p>（陈智罡）</p>
+              <p class="location">Professor, Doctor</p>
+              <p class="organization">Organization: Wanli university</p>
+              <a href="mailto:zhig.chen@foxmail.com"><img src="./img/mail.jpg" height="18" width="20"> : Email</a>
+              <br>
+              <p></p>
+              <a href="https://www.linkedin.com/in/zhigang-chen-79153435"><img src="./img/linkdin.jpg" height="18" width="20"> : Linkdin</a>
+              <br>
+              <br>
+           <a href='https://clustrmaps.com/site/1b22b'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=FWGtByQvq4HSKGeLV79elKFsh9y61syGRiXMKZLwY_M'/></a> 
+            </div>
+
+            <div class="col-lg-6">
+                <br>
+                <br>
+                <br>
+                <h3 class="about">About Me</h3>
+                <br>
+                <p class="content_1">I am an professor at Zhejiang Wanli University, PR China. I have been working on fully homomorphic encryption since 2011. My research interests include fully homomorphic encryption and blockchain. I received BSc in mathematics in 1994 and MSc in computer software and theory in 2004 and PhD in cryptography in the Nanjing University of Aeronautics and Astronautics in 2015.</p>
+                <p class="content_2">I was an academic visitor at Royal Holloway, University of London, Information Security Group from Aug 2013 to Aug 2014. I was a visiting researcher at State Key Laboratory of Information Security, Chinese Academy of Sciences from 2017 to 2018. Honorary academic advisor of the Asian Blockchain Academic Institute. Zhejiang Province young and middle-aged academic leaders. Communication member of Technical Committee on Block Chain of CCF.</p>
+                <br>
+                <p class="content_3">My team’s open source projects about FHE</p>
+                <a href="https://github.com/Huelse/HEAAN-Python">1.	This is a Python wrapper for HEAAN lib.</a>
+                <br>
+                <a href="https://github.com/Huelse/SEAL-Python">2.	Microsoft SEAL For Python</a>
+                <br>
+                <a href="https://github.com/YiJingGuo/HEBenchmark">3.	HEBenchmark- This test system takes HElib library and SEAL library as examples.</a>
+                <br>
+                <a href="https://github.com/DevilLost/Secure-Face-Recognition-System-based-on-Fully-Homomorphic-Encryption">4.	Secure Face Recognition System based on Fully Homomorphic Encryption</a>
+                <p></p>
+              </div>
+      </div>
+    </main>
+  </div>
+</body>
+
+<footer class="navbar-fixed-bottom">
+    <div style=" height:75px " ></div>
+</footer>
+
+</html>
+
+
