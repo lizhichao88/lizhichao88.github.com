@@ -66,10 +66,10 @@
 <hr width="800px" size="10px" align="left" color="#EF904C">
 
 <br>
-<h4>我的第一个网页 made by XXX @2017-11-3</h4>
+
 
 <a href="#top">返回顶部</a>
-<a href="#2">直达我的成名作</a>
+
 <br>
 
 </body>
