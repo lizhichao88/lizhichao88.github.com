@@ -5,15 +5,7 @@
   <meta charset="UTF-8">
   <title>我的个人主页</title>
 </head>
-<body bgcolor="#F5F5F5" text="#FF9100" >
-<a id="top"></a>
-<h1><font size="50px" face="隶书" color="#EF904C">我的简介</font> </h1>
 
-<p  font-size="20px" color="blue">
-<b>中国内地</b><i>男</i>演<del>猿</del>员、<b>当红<u>明星</u></b>
-</p>
-
-<hr width="800px" size="4px" align="left" color="#EF904C">
 
 <table border="1px" bgcolor="#eee" cellpadding="10px" cellspacing="10px" bordercolor="#EF904C" >
 <caption ><font size="15px" face="隶书" color="#EF904C">我的基本信息</font></caption>
